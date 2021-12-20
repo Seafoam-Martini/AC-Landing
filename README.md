@@ -2,6 +2,7 @@
 
 <img src="https://i.imgur.com/0BKeklk.png" alt="alt text" width="250px">
 A free links template for Animal Crossing creators based on Michael Barney's [Linkfree](https://michaelbarney.github.io/LinkFree)  
+
 A premium version is available for purchase on my [Etsy](https://www.etsy.com/ca/shop/SeafoamMartini?section_id=28841823)
 
 ## Premium version features
