@@ -1,14 +1,15 @@
 # Animal Crossing Island Rep Landing Page
 
 <img src="https://i.imgur.com/0BKeklk.png" alt="alt text" width="250px">
-A links template for Animal Crossing creators.  
+A free links template for Animal Crossing creators.  
 
-Thank you for purchasing the premium version.
+A premium version is available for purchase on my [Etsy](https://www.etsy.com/ca/shop/SeafoamMartini?section_id=28841823)
 
 ## Premium version features
-- Animated Waves
-- Hover Link Animations
+- Animated Waves and animated link hovers
+<img src="https://i.imgur.com/Oc7fylm.gif"  width="250px"> <img src="https://i.imgur.com/1ca9W0W.gif"  width="250px">
 - Alternate background options
+<img src="https://i.imgur.com/eqDOPT1.png"><img src="https://i.imgur.com/cay8vXS.png"><img src="https://i.imgur.com/D2SujPX.png">
 - Custom colour options for name tag area and avatar background area
 
 ## How to Set up
@@ -18,9 +19,3 @@ Thank you for purchasing the premium version.
    You can use any picture you want as an avatar as long as it is square and 150px x 150px in size. Please note that it must be in PNG format.
 
 2. Open the "index.html" file and fill out your social media links.
-
-
-3. To customize your avatar's background colour open up "style.css" and change the 3 values at the very top.
-
-
-4. To customize the background image, open "index.html" and follow the instructions. The location of the code is right above the socials link area.
