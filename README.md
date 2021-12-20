@@ -20,4 +20,6 @@ A premium version is available for purchase on my [Etsy](https://www.etsy.com/ca
    Save this as "avatar.png" and put it into the "picture" folder. Please make sure the file name is in all lowercase.
    You can use any picture you want as an avatar as long as it is square and 150px x 150px in size. Please note that it must be in PNG format.
 
-2. Open the "index.html" file and fill out your social media links.
+2. Open the "index.html" file and fill out your social media links.  
+
+<img src="https://i.imgur.com/mYMC8J4.gif" width="250px">
