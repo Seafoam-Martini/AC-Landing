@@ -23,3 +23,8 @@ A premium version is available for purchase on my [Etsy](https://www.etsy.com/ca
    You can use any picture you want as an avatar as long as it is square and 150px x 150px in size. Please note that it must be in PNG format.
 
 2. Open the "index.html" file and fill out your social media links.  
+
+3. Once you're done filling out your page, upload the folder to the route your web host.  
+   If you do not have a web host you can create a Github account and take advantage of Github Pages.
+   See [here](https://www.youtube.com/watch?v=QyFcl_Fba-k) for how to set up free hosting on Github.
+   Copy the entire folder into your new Github repository.
