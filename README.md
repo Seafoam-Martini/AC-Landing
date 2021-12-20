@@ -6,10 +6,12 @@ A free links template for Animal Crossing creators.
 A premium version is available for purchase on my [Etsy](https://www.etsy.com/ca/shop/SeafoamMartini?section_id=28841823)
 
 ## Premium version features
-- Animated Waves and animated link hovers
+- Animated Waves and animated link hovers  
+
 <img src="https://i.imgur.com/Oc7fylm.gif"  width="250px"> <img src="https://i.imgur.com/1ca9W0W.gif"  width="250px">
-- Alternate background options
-<img src="https://i.imgur.com/eqDOPT1.png"><img src="https://i.imgur.com/cay8vXS.png"><img src="https://i.imgur.com/D2SujPX.png">
+- Alternate background options  
+
+<img src="https://i.imgur.com/eqDOPT1.png" width="250px><img src="https://i.imgur.com/cay8vXS.png" width="250px><img src="https://i.imgur.com/D2SujPX.png" width="250px>
 - Custom colour options for name tag area and avatar background area
 
 ## How to Set up
