@@ -12,7 +12,9 @@ A premium version is available for purchase on my [Etsy](https://www.etsy.com/ca
 - Alternate background options
 
 <img src="https://i.imgur.com/eqDOPT1.png" width="250px"><img src="https://i.imgur.com/cay8vXS.png" width="250px"><img src="https://i.imgur.com/D2SujPX.png" width="250px">
-- Custom colour options for name tag area and avatar background area
+- Custom colour options for name tag area and avatar background area  
+
+<img src="https://i.imgur.com/mYMC8J4.gif" width="250px">
 
 ## How to Set up
 
@@ -21,5 +23,3 @@ A premium version is available for purchase on my [Etsy](https://www.etsy.com/ca
    You can use any picture you want as an avatar as long as it is square and 150px x 150px in size. Please note that it must be in PNG format.
 
 2. Open the "index.html" file and fill out your social media links.  
-
-<img src="https://i.imgur.com/mYMC8J4.gif" width="250px">
